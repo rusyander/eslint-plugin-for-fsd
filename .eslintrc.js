@@ -12,6 +12,7 @@ module.exports = {
     "eslint-plugin/require-meta-type": "off",
     "no-unused-vars": "warn",
     "eslint-plugin/no-deprecated-report-api": "off",
+    eslint: "off",
   },
   env: {
     node: true,
